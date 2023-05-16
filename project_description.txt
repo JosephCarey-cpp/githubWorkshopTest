@@ -1,4 +1,4 @@
-Solar-Powered Smart Street Lighting System
+Test project (Joseph Carey)
 Autonomous Drone Delivery System
 3D Printed Prosthetic Limbs for Children
 Smart Home Automation System
